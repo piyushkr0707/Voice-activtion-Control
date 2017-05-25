@@ -1,0 +1,30 @@
+ 
+# comment
+#E finish
+#I 127.0.0.1
+#P 26000
+#V 70
+shoot
+off
+left
+right
+up
+down
+stop
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+Hello
+Hi
+1984
+2012
+1962
+1504
